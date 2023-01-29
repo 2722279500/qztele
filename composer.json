@@ -7,12 +7,12 @@
     "license": "1",
     "autoload": {
         "psr-4": {
-            "Cmphp\\Qztele\\": "src/"
+            "Cmphp\\Qztele\\": "src/pool"
         }
     },
     "authors": [
         {
-            "name": "citrix",
+            "name": "cmphp",
             "email": "2722279500@qq.com"
         }
     ],
