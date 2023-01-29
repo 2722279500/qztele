@@ -7,7 +7,7 @@
     "license": "1",
     "autoload": {
         "psr-4": {
-            "Cmphp\\Qztele\\": "src/pool"
+            "Cmphp\\Qztele\\": "src/"
         }
     },
     "authors": [

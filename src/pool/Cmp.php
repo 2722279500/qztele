@@ -1,5 +1,5 @@
 <?php
-namespace Pool;
+namespace Cmphp\Qztele\Pool;
 class Cmp
 {
     function run()
