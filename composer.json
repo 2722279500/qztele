@@ -1,0 +1,20 @@
+{
+    "name": "cmphp/qztele",
+    "description": "Java-compatible php",
+    "require": {
+        "php": ">=7.3.4"
+    },
+    "license": "1",
+    "autoload": {
+        "psr-4": {
+            "Cmphp\\Qztele\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "citrix",
+            "email": "2722279500@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
